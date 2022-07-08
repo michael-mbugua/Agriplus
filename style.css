@@ -51,5 +51,26 @@ u{
 .subheading2{
     width: 100%;
     padding-bottom: 300px;
-    background-image: url(/home/moringa/Desktop/AgriPlus/images/image 1.png);
+    background-image: url('./images/image\ 2.png');
+}
+#image2{
+    float: right;
+    width: 50%;
+}
+.image2content{
+    flex-direction: column;
+    text-align: start;
+    padding-left: 30px;
+    padding-top: 20px;
+    word-spacing: 5px;
+
+}
+.explore{
+    float: left;
+    background-color: #ED661F;
+    text-transform: capitalize;
+    padding: 12px 15px;
+    justify-content: space-around;
+    color: white;
+    
 }
