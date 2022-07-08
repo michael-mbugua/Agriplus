@@ -10,29 +10,15 @@
     padding: 20px; 
     background-color: black;
     margin-top: 0%;
-    
-
-    
 }
-
 #agri{
     text-align: start;
     color: white;
-
 }
 .nav{
     float: right;
     clear: both;
 }
-
-/* .logo{ 
-    background-color: black;
-    text-align: start;
-     margin-bottom: 50px; *
-    color:white;
-    border-bottom: 10px red;
-}
-/*  */
 .button1{
     background-color: #ED661F;
     text-transform: capitalize;
@@ -41,8 +27,6 @@
     color: white;
     float: right;
 } 
-
-/*  */
 a:link,a:visited{
     color: white;
     text-decoration: none;
@@ -63,4 +47,9 @@ u{
     text-decoration: none;
 }
 
-
+/* styling subheading2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; */
+.subheading2{
+    width: 100%;
+    padding-bottom: 300px;
+    background-image: url(/home/moringa/Desktop/AgriPlus/images/image 1.png);
+}
