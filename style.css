@@ -1,0 +1,66 @@
+.html{
+    /* color: #ED661F; */
+    font-family: 'poppins','inter';
+    
+}
+/* styling the navigation bar'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' */
+
+.navigation{
+    width: 100%;
+    padding: 20px; 
+    background-color: black;
+    margin-top: 0%;
+    
+
+    
+}
+
+#agri{
+    text-align: start;
+    color: white;
+
+}
+.nav{
+    float: right;
+    clear: both;
+}
+
+/* .logo{ 
+    background-color: black;
+    text-align: start;
+     margin-bottom: 50px; *
+    color:white;
+    border-bottom: 10px red;
+}
+/*  */
+.button1{
+    background-color: #ED661F;
+    text-transform: capitalize;
+    padding: 12px 15px;
+    justify-content: space-around;
+    color: white;
+    float: right;
+} 
+
+/*  */
+a:link,a:visited{
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+a:hover,a:active{
+    background-color:#ED661F;
+    color: white;
+}
+.navlinks{
+    text-align: center;
+    padding: 10px 20px;
+    display: inline-block;
+    width: 30;
+    padding-top: 0%;
+}
+u{
+    text-decoration: none;
+}
+
+
