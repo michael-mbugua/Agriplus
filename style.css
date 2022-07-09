@@ -108,3 +108,9 @@ u{
     display: flex;
     flex-direction: column;
 }
+/* subheading4''''''''''''''''''''''''''''''''''''''''''''''''''''' */
+.sub4cont{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
