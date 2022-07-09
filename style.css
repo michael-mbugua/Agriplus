@@ -5,6 +5,18 @@
 }
 /* styling the navigation bar'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' */
 
+.main{
+    padding-left: 20px;
+    height: 100%;
+    font-family: 'poppins','inter';
+    /* width: 100%; */
+    /* padding-right: 30px; */
+    /* border: 50px solid black; */
+    
+}
+
+
+
 .navigation{
     width: 100%;
     padding: 20px; 
@@ -182,6 +194,8 @@ u{
 }
 /* icons''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' */
 .footer{
+    display: flex;
+    flex-direction: column;
     padding-top: 10%;
 }
 
@@ -204,12 +218,35 @@ u{
     /* text-align: center;   */
     margin: 5px 2px;  
     font-size: 30px;  
-    width: 50px; ;
+    /* width: 50px; ; */
 }
 .footerdet1{
     text-align: start;
+    display: flex;
+    flex-direction: row;
 }
 .downloadapplegoogle{
     display: flex;
     flex-direction: row;
+}
+.footer li{
+    list-style-type: none;
+}
+.imgleft{
+    text-align: start;
+}
+.footer2{
+    display: flex;
+    flex-direction: row;
+}
+.companyfoot{
+    padding-left: 100px;
+    padding-right: 30px;
+}
+.productfoot{
+    padding-left: 10px;
+    padding-right: 30px;
+}
+.otherfoot{
+    padding-left: 10px;
 }
