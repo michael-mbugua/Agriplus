@@ -114,3 +114,20 @@ u{
     flex-direction: column;
     text-align: center;
 }
+/* subheading5....................................................... */
+.sub5{
+    padding-top: 20px;
+}
+.most_popular{
+    display: flex;
+    flex-direction: row;
+}
+.sub5head{
+    text-align: start;
+    display: flex;
+    flex-direction: row;
+}
+.card1{
+    padding-left: 0%;
+    padding-right: 70px;
+}
