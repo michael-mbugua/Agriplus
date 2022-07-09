@@ -51,7 +51,8 @@ u{
 .subheading2{
     width: 100%;
     padding-bottom: 300px;
-    background-image: url('./images/image\ 2.png');
+    background-image: url('./images/image.png');
+    
 }
 #image2{
     float: right;
@@ -73,4 +74,37 @@ u{
     justify-content: space-around;
     color: white;
     
+}
+.followers{
+    padding: 20px 40px;
+    background-color: white ;
+    box-shadow: 0 0 0 0 #7d776c;
+    display: flex;
+    list-style-type: none;
+    float: right;
+    padding-right: 15%;
+    border: solid grey;
+    
+}
+
+.view{
+    padding: 10px;
+    float: right;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+
+}
+/* subheading3;;;;................................................. */
+.subheading3{
+    padding: 0px 100px;
+    padding-bottom: 30px;
+    text-align: start;
+}
+.subheading3 > img{
+    float: right;
+}
+.subheading3cont{
+    display: flex;
+    flex-direction: column;
 }
