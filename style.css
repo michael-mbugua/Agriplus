@@ -147,3 +147,20 @@ u{
     float: right;
     padding-bottom: 50px;
 }
+/* ratings'''''''''''''''''''''''''''''''''''''''''''''''''''' */
+.subheading7{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+.checked{
+    color: orange;
+}
+.rebecca{
+    padding-left: 0%;
+    padding-right: 150px;
+}
+.read_more{
+    float: right;
+    padding-top: 50px;
+}
