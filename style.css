@@ -164,3 +164,19 @@ u{
     float: right;
     padding-top: 50px;
 }
+/* inputs''''''''''''''''''''''''''''''''''''''''''''''''''''''' */
+.details{
+    background-color: black;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+}
+
+#submit{
+    padding: 5px 20px;
+    background-color: #ED661F;
+}
+#email{
+    padding: 5px;
+}
