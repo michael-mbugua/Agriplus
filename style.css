@@ -116,6 +116,7 @@ u{
 }
 /* subheading5....................................................... */
 .sub5{
+    width: 100%;
     padding-top: 20px;
 }
 .most_popular{
@@ -130,4 +131,19 @@ u{
 .card1{
     padding-left: 0%;
     padding-right: 70px;
+}
+
+/* subheading 6''''''''''''''''''''''''''''''''''''''''''' */
+.sub6cont{
+    display: flex;
+    flex-direction: row;
+}
+.card2{
+    padding-left: 0%;
+    padding-right: 70px;
+}
+.fas{
+    padding-top: 30px;
+    float: right;
+    padding-bottom: 50px;
 }
