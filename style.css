@@ -209,3 +209,7 @@ u{
 .footerdet1{
     text-align: start;
 }
+.downloadapplegoogle{
+    display: flex;
+    flex-direction: row;
+}
