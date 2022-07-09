@@ -165,7 +165,7 @@ u{
     padding-top: 50px;
 }
 /* inputs''''''''''''''''''''''''''''''''''''''''''''''''''''''' */
-.details{
+.footerdetails{
     background-color: black;
     text-align: center;
     padding-top: 5%;
@@ -179,4 +179,33 @@ u{
 }
 #email{
     padding: 5px;
+}
+/* icons''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' */
+.footer{
+    padding-top: 10%;
+}
+
+
+.fa-twitter{
+    text-align: start;  
+    margin: 5px 2px;  
+    font-size: 30px;  
+    width: 50px; ;
+}
+.fa-facebook{
+    
+    /* text-align: center;   */
+    margin: 5px 2px;  
+    font-size: 30px;  
+    width: 50px; ;
+}
+.fa-instagram{
+    
+    /* text-align: center;   */
+    margin: 5px 2px;  
+    font-size: 30px;  
+    width: 50px; ;
+}
+.footerdet1{
+    text-align: start;
 }
