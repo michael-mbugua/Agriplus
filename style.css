@@ -250,3 +250,7 @@ u{
 .otherfoot{
     padding-left: 10px;
 }
+.line{
+    width: 100%;
+    border: 2px solid white;
+}
