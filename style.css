@@ -63,7 +63,8 @@ u{
 .subheading2{
     width: 100%;
     padding-bottom: 300px;
-    background-image: url('./images/image.png');
+    background-image: url('image.png');
+    align-items: center;
     
 }
 #image2{
